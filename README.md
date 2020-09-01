@@ -1,20 +1,14 @@
 
 # Junior C / C++ developer
 
-```
-Personal information
-```
+
+**Personal information**
+
 ```
 Name: Andrii Kolomoiets
-```
-```
+Age: 19 years
 Phone number: +38( 099 )- 792 - 23 - 76
 Email: akolomoi.21@gmail.com
-```
-```
-Age: 19 years
-```
-```
 Github: akolomoi
 ```
 **Summary**
